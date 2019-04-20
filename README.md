@@ -22,6 +22,6 @@ var=2
 ## 单行显示
 'var=1'
 ## 链接
-[哔哩哔哩](https://www.bilibili.com/)
+我最喜欢的视频网站[哔哩哔哩](https://www.bilibili.com/)
 ## 图片
-![]
+![我老婆]（https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=2823764044,4179505759&fm=26&gp=0.jpg）
